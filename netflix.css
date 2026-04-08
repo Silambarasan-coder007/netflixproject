@@ -1,0 +1,337 @@
+.header{
+    padding: 5px 10px;
+}
+.navbar{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    background-color: rgb(248, 2, 2);
+    color: white;
+    border: none;
+    padding: 2px 30px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.language{
+    position: absolute;
+    right: 130px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+
+}
+.logo{
+    height: 44px;
+    margin-left: 0px;
+}
+body{
+    background-color: black;
+}
+.netflix{
+    background-image: url(https://cdn.mos.cms.futurecdn.net/Ps8mZvho7kJHiWnUhyUqug.png);
+    position: relative;
+    height: 600px;
+    width: 1350px;
+}
+.heading{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.para{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.start{
+    text-align: center;
+    color: white;
+    background-color: rgb(253, 3, 3);
+}
+.button{
+    color: white;
+    background-color: rgb(252, 2, 2);
+    font-size: 25px;
+    padding: 10px 50px;
+    border-radius: 10px;
+}
+.sel{
+    font-size: 20px;
+    border-radius: 10px;
+}
+.sel1{
+    font-size: 20px;
+    border-radius: 10px;
+}
+.movies{
+    display: flex;
+    gap: 10px;
+    position: relative;
+}
+.movies1{
+    display: flex;
+    gap: 10px;
+    position: relative;
+}
+.card{
+    margin-left: 50px;
+}
+.card1{
+    margin-left: 50px;
+}
+.rank1{
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.rank2{
+    position: absolute;
+    top: 230px;
+    left: 370px;
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.rank3{
+    position: absolute;
+    top: 230px;
+    left: 690px;
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.rank4{
+    position: absolute;
+    top: 230px;
+    left: 1010px;
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.rank5{
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.rank6{
+    position: absolute;
+    top: 230px;
+    left: 370px;
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.rank7{
+    position: absolute;
+    top: 230px;
+    left: 690px;
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.rank8{
+    position: absolute;
+    top: 230px;
+    left: 1010px;
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.svg{
+    color: white;
+}
+.tre{
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.content{
+    color: white;
+}
+.flex-box1{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.fex-box2{
+    display: flex;
+    justify-content: center;
+    width: 650px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.c{
+    color: white;
+    font-size: 30px;
+}
+.cards{
+    background-color: #303030;
+      margin-bottom: 10px;
+      margin-left: 50px;
+      margin-top: 15px;
+      padding: 5px;
+      font-size: 55px;
+      display: flex;
+      justify-content: space-between; 
+      align-items: center;
+      color: white;
+      width: 1200px;
+}
+.content{
+    background: linear-gradient(135deg,#df528a,#b15bdc,#8432be);
+    width: 290px;
+    height: 280px;
+    padding: 5px;
+    box-shadow: 0 4px 15px black;
+    border-radius: 12px;
+    color: #ffffff;
+    font-size: 20px;
+
+}
+.reason{
+    margin-top: 15px;
+}
+
+
+
+
+.ic{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 1780px;
+    left: 280px;
+    border-radius: 50%;
+    background: linear-gradient(135deg,#0f208d,#b62d54,rgb(79,28,118));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+    box-shadow: 0 0 15px rgba(229,9,20,0.8);
+}
+.ic1{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 1780px;
+    left: 590px;
+    border-radius: 50%;
+    background: linear-gradient(135deg,#0f208d,#b62d54,rgb(79,28,118));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+    box-shadow: 0 0 15px rgba(229,9,20,0.8);
+}
+.ic2{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 1780px;
+    left: 900px;
+    border-radius: 50%;
+    background: linear-gradient(135deg,#0f208d,#b62d54,rgb(79,28,118));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+    box-shadow: 0 0 15px rgba(229,9,20,0.8);
+}
+.ic3{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 1780px;
+    left: 1210px;
+    border-radius: 50%;
+    background: linear-gradient(135deg,#0f208d,#b62d54,rgb(79,28,118));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+    box-shadow: 0 0 15px rgba(229,9,20,0.8);
+}
+
+
+    .footer {
+      background-color: #000;
+      padding: 40px 10%;
+      font-size: 14px;
+    }
+
+    .footer p {
+      margin-bottom: 20px;
+    }
+
+    .footer a {
+      color: #757575;
+     
+      display: block;
+      margin: 8px 0;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    .footer-columns {
+      display: flex;
+      flex-direction: row;
+      gap: 125px;
+      margin-bottom: 20px;
+      font-size: large;
+      margin-left: auto;
+      color: white;
+    }
+
+    .language-select {
+      background-color: #000;
+      color: #757575;
+      border: 1px solid #757575;
+      padding: 6px 10px;
+      border-radius: 4px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+
+    .copyright {
+      margin-top: 20px;
+      font-size: 20px;
+      color: #757575;
+      margin-bottom: 80px;
+    }
+    .repeat{
+        margin-top: 50px;
+    }
+    .email{
+    width:450px;
+    height:50px;
+    padding: 10px 50px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: rgba(45, 37, 37, 0.614);
+    border: 1px solid;
+    color: #feffff;
+    
+}
+
